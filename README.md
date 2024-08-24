@@ -1,3 +1,5 @@
+List of contents
+
 0. Summary Final Thesis PhongDinhCS_Data_Lakehouse_EN.pdf
 1. DATA ENGINEER - Phân tích hành vi người dùng thông qua phân tích GPS.pdf
 2. DATA ENGINEERING - Hadoop Spark Hive.pdf
@@ -16,5 +18,5 @@
 15. CRYPTOGRAPHY - Paper.pdf
 16. MALWARE ANALYSIS ANTI -Virtual Machine Techniques.pdf
 17. IOT APPLICATION DEVELOPMENT - Hệ thống Giám sát và Tưới tiêu thông minh.pdf
-Phòng Đào Tạo SĐH - ĐHBK Cumulative grade point average table 240823.pdf
-ĐINH THANH PHONG - CV -Data Engineer-Data Platform Engineer-DevOps-Power Platform.pdf
+18. Phòng Đào Tạo SĐH - ĐHBK Cumulative grade point average table 240823.pdf
+19. ĐINH THANH PHONG - CV -Data Engineer-Data Platform Engineer-DevOps-Power Platform.pdf
