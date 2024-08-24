@@ -20,3 +20,4 @@ List of contents
 17. IOT APPLICATION DEVELOPMENT - Hệ thống Giám sát và Tưới tiêu thông minh.pdf
 18. Phòng Đào Tạo SĐH - ĐHBK Cumulative grade point average table 240823.pdf
 19. ĐINH THANH PHONG - CV -Data Engineer-Data Platform Engineer-DevOps-Power Platform.pdf
+20. README.md
