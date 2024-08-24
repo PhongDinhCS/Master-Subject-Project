@@ -13,7 +13,7 @@ List of contents
 10. LAWS, POLICIES, AND STANDARDS IN CYBER-SECURITY Project 2 HIPAA.pptx.pdf
 11. DATA SCIENCE - Project _ Phân tích tệp dữ liệu Las Vegas Strip.pdf
 12. MALWARE ANALYSIS - A Survey of Visualization Systems for Malware Analysis.pdf
-13 . MATHEMATICAL FOUNDATION FOR COMPUTER SCIENCE - Phát hiện cấu trúc cộng đồng trong đồ thị.pdf
+13. MATHEMATICAL FOUNDATION FOR COMPUTER SCIENCE - Phát hiện cấu trúc cộng đồng trong đồ thị.pdf
 14. CRYPTOGRAPHY - MD5 SHA1.pdf
 15. CRYPTOGRAPHY - Paper.pdf
 16. MALWARE ANALYSIS ANTI -Virtual Machine Techniques.pdf
